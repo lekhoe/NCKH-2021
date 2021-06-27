@@ -1,0 +1,35 @@
+.button-add-point-evaluationBoards{
+    /* margin-left: auto; */
+    width: 150px;
+    height: 40px;
+    background-color: #4682b4;
+    border: 0;
+    border-radius: 10px;
+    outline: none;
+    cursor: pointer;
+    color: #ffffff;
+    transition: 0.4s;
+}
+
+.button-add-point-evaluationBoards:hover{
+    background-color: #3498db;
+    color: #ffffff;
+}
+
+.button-add{
+    margin-left: auto;
+    margin-right: 16px;
+    width: 150px;
+    height: 40px;
+    border: 1px solid #4682b4;
+    border-radius: 10px;
+    outline: none;
+    cursor: pointer;
+    color: #4682b4;
+    transition: 0.4s;
+}
+
+.button-add:hover{
+    background-color: #3498db;
+    color: #ffffff;
+}
